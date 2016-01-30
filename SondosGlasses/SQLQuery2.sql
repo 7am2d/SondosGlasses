@@ -1,0 +1,1 @@
+﻿INSERT into Glasses  VALUES ('1', '1', '10', '20', 1)

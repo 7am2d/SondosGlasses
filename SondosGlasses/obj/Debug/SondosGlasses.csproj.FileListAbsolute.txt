@@ -1,0 +1,62 @@
+c:\users\dev\documents\visual studio 2013\Projects\SondosGlasses\SondosGlasses\bin\Debug\SondosGlasses.exe.config
+c:\users\dev\documents\visual studio 2013\Projects\SondosGlasses\SondosGlasses\bin\Debug\SondosGlasses.exe
+c:\users\dev\documents\visual studio 2013\Projects\SondosGlasses\SondosGlasses\bin\Debug\SondosGlasses.pdb
+c:\users\dev\documents\visual studio 2013\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.csprojResolveAssemblyReference.cache
+c:\users\dev\documents\visual studio 2013\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.Login.resources
+c:\users\dev\documents\visual studio 2013\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.Main.resources
+c:\users\dev\documents\visual studio 2013\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.Properties.Resources.resources
+c:\users\dev\documents\visual studio 2013\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.csproj.GenerateResource.Cache
+c:\users\dev\documents\visual studio 2013\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.exe
+c:\users\dev\documents\visual studio 2013\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.pdb
+C:\Users\Dev\documents\visual studio 2013\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.NewUser.resources
+C:\Users\Dev\documents\visual studio 2013\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.NewCustomer.resources
+C:\Users\Dev\documents\visual studio 2013\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.Prescription.resources
+C:\Users\Dev\documents\visual studio 2013\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.AddGlass.resources
+D:\SondosGlasses\SondosGlasses\bin\Debug\SondosGlasses.exe.config
+D:\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.exe
+D:\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.pdb
+D:\SondosGlasses\SondosGlasses\bin\Debug\SondosGlasses.exe
+D:\SondosGlasses\SondosGlasses\bin\Debug\SondosGlasses.pdb
+D:\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.csprojResolveAssemblyReference.cache
+D:\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.AddGlass.resources
+D:\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.Login.resources
+D:\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.Main.resources
+D:\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.NewCustomer.resources
+D:\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.NewUser.resources
+D:\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.Prescription.resources
+D:\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.Properties.Resources.resources
+D:\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.csproj.GenerateResource.Cache
+D:\Projects\SondosGlasses\SondosGlasses\bin\Debug\SondosGlasses.exe.config
+D:\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.exe
+D:\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.pdb
+D:\Projects\SondosGlasses\SondosGlasses\bin\Debug\SondosGlasses.exe
+D:\Projects\SondosGlasses\SondosGlasses\bin\Debug\SondosGlasses.pdb
+D:\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.csprojResolveAssemblyReference.cache
+D:\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.AddGlass.resources
+D:\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.Login.resources
+D:\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.Main.resources
+D:\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.NewCustomer.resources
+D:\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.NewUser.resources
+D:\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.Prescription.resources
+D:\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.Properties.Resources.resources
+D:\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.csproj.GenerateResource.Cache
+D:\Projects\SondosGlasses\SondosGlasses\bin\Debug\Data.mdf
+D:\Projects\SondosGlasses\SondosGlasses\bin\Debug\Data_log.ldf
+D:\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.Customer.resources
+C:\Users\JO\Documents\GitHub\All-Projects\Projects\SondosGlasses\SondosGlasses\bin\Debug\SondosGlasses.exe.config
+C:\Users\JO\Documents\GitHub\All-Projects\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.exe
+C:\Users\JO\Documents\GitHub\All-Projects\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.pdb
+C:\Users\JO\Documents\GitHub\All-Projects\Projects\SondosGlasses\SondosGlasses\bin\Debug\Data.mdf
+C:\Users\JO\Documents\GitHub\All-Projects\Projects\SondosGlasses\SondosGlasses\bin\Debug\Data_log.ldf
+C:\Users\JO\Documents\GitHub\All-Projects\Projects\SondosGlasses\SondosGlasses\bin\Debug\SondosGlasses.exe
+C:\Users\JO\Documents\GitHub\All-Projects\Projects\SondosGlasses\SondosGlasses\bin\Debug\SondosGlasses.pdb
+C:\Users\JO\Documents\GitHub\All-Projects\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.csprojResolveAssemblyReference.cache
+C:\Users\JO\Documents\GitHub\All-Projects\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.AddGlass.resources
+C:\Users\JO\Documents\GitHub\All-Projects\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.Customer.resources
+C:\Users\JO\Documents\GitHub\All-Projects\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.Login.resources
+C:\Users\JO\Documents\GitHub\All-Projects\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.Main.resources
+C:\Users\JO\Documents\GitHub\All-Projects\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.NewCustomer.resources
+C:\Users\JO\Documents\GitHub\All-Projects\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.NewUser.resources
+C:\Users\JO\Documents\GitHub\All-Projects\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.Prescription.resources
+C:\Users\JO\Documents\GitHub\All-Projects\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.Properties.Resources.resources
+C:\Users\JO\Documents\GitHub\All-Projects\Projects\SondosGlasses\SondosGlasses\obj\Debug\SondosGlasses.csproj.GenerateResource.Cache
